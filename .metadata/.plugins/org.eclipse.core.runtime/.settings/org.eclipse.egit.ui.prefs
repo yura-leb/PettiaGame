@@ -1,0 +1,12 @@
+//BranchProjectTracker__/Users/elenaefimova/Documents/Studies/Java_MSU/java2017_practicum/.git_ceef41ca98394e5ace4f3263755ba81c2d338a64=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects branch\="ceef41ca98394e5ace4f3263755ba81c2d338a64">\n<project>/Chess</project>\n</projects>
+//BranchProjectTracker__/Users/elenaefimova/Documents/Studies/Java_MSU/java2017_practicum/.git_checkers_master=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects branch\="checkers_master">\n<project>/Chess</project>\n</projects>
+//BranchProjectTracker__/Users/elenaefimova/Documents/Studies/Java_MSU/java2017_practicum/.git_checkers_moves=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects branch\="checkers_moves">\n<project>/Chess</project>\n</projects>
+//BranchProjectTracker__/Users/elenaefimova/Documents/Studies/Java_MSU/java2017_practicum/.git_checkers_pieces=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects branch\="checkers_pieces">\n<project>/Chess</project>\n</projects>
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\n<messages>\n<message>draft</message>\n</messages>
+eclipse.preferences.version=1
+org.eclipse.egit.ui.githistorypage.showallfilter=SHOWALLREPO
+resourcehistory_graph_split=770,229
+resourcehistory_rev_split=700,300
+resourcehistory_show_all_branches=true
+show_detached_head_warning=always
+show_initial_config_dialog=false

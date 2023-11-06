@@ -1,0 +1,1 @@
+Slides: http://master.cmc.msu.ru/?q=ru/node/604#romanov_java
